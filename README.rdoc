@@ -2,4 +2,9 @@
 
 Coder Manual Project Application
 Subscription-based web application
+Using:
+  -Stripe API for payments
+  -Sendgrid for contact forms/e-mails
+  -Bootstrap for CSS
+  -Devise for user authentication
 https://codermanual.com
